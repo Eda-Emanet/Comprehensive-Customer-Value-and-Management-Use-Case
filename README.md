@@ -39,9 +39,6 @@ Since the dataset provided for the churn model does not include any churn label,
 -  Due to the possibility that the monetary variable is scaled, the success metric was chosen as the Adjusted R².
 -  Adjusted R² score was found to be 0.817. (RMSE 0.43)
 
-
-- All studies and class structure have been added to this repository and you can find the presentation in the CustomerValue file.
-
   # Docker
 
 - Pull it with **docker pull edaemanet/my-app**
