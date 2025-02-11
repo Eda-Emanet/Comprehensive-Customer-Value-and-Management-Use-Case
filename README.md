@@ -16,6 +16,14 @@ Overview;
      
 # Structure
 Data has been loaded and cleared.
+Variables were examined and missing values ​​and outlier values ​​were examined.
+The correlations and distributions of the variables were examined.
+New variables have been created.
+RFM metrics have been added.
+Churn and CLV models have been established.
+The success of the models has been tried to be increased by hyperparameter optimization.
+The entire structure has been dockerized and sent to Dockerhub.
+
 
 # Churn Predict 
 Since the dataset provided for the churn model does not include any churn label, the churn segment created using the RF score was selected as the target variable.
