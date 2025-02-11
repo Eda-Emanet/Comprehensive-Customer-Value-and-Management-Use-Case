@@ -1,8 +1,7 @@
 # Comprehensive Customer Value and Management Use Case
 
 Overview;
-
- In this study, the given datasets were examined and the CLV and Churn prediction model was established and then dockerized.
+ In this study, the data sets given were analyzed and CLV and Churn prediction models were established and dockerized.
  Given columns;
 
    - `unique_customer_id`:The unique identifier of the customer.
