@@ -22,7 +22,7 @@ Overview;
 - RFM metrics have been added.
 - Churn and CLV models have been established.
 - The success of the models has been tried to be increased by hyperparameter optimization.
-- The entire structure has been dockerized and sent to Dockerhub.
+- The entire structure has been dockerized and Docker image sent to Dockerhub.
 - CustomerValue python file prepared for presentation, class structures prepared for data cleaning, loading, feature engineering, training of CLV and Churn models, Dockerfile and requirements.txt file
   has been added to this repository. 
 
