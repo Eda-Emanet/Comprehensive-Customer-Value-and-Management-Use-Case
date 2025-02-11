@@ -34,6 +34,6 @@ Since the dataset provided for the churn model does not include any churn label,
 
   # Docker
 
-- Pull it with docker **pull edaemanet/my-app**
-- You can run it with docker **run -p 8888:8888 edaemanet/my-app** and access it from localhost:8888.
+- Pull it with **docker pull edaemanet/my-app**
+- You can run it with **docker run -p 8888:8888 edaemanet/my-app** and access it from localhost:8888.
 
